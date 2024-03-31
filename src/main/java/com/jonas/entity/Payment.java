@@ -1,6 +1,6 @@
-package com.javatechie.entity;
+package com.jonas.entity;
 
-import com.javatechie.dto.UPIMode;
+import com.jonas.dto.UPIMode;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

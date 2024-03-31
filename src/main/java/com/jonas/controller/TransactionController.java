@@ -1,9 +1,9 @@
-package com.javatechie.controller;
+package com.jonas.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.javatechie.entity.Payment;
-import com.javatechie.service.TransactionService;
+import com.jonas.entity.Payment;
+import com.jonas.service.TransactionService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

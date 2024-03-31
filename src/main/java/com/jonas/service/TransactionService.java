@@ -1,7 +1,7 @@
-package com.javatechie.service;
+package com.jonas.service;
 
-import com.javatechie.entity.Payment;
-import com.javatechie.repository.PaymentRepository;
+import com.jonas.entity.Payment;
+import com.jonas.repository.PaymentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
